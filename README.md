@@ -1,7 +1,11 @@
-# Algoritmos
+# Algorithms
 
-Esta es una coleccion de algoritmos que he estado aprendiendo estas semanas, la mayoria se encuentran escritos
-en python pero algunos estan en javascript.
+An algorithm is nothing mora than a step-by-step procedure for solving a problem.
+
+here is a colection of algoritms that apears in the grokking algorithms book that i have been practicing this weeks some on python and other on js.
+
+Have fun 😊
+
 
 • Binary Search
 • Selection Sort

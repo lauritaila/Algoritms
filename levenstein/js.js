@@ -6,7 +6,7 @@
 function getEditDistance(source, target) {
 	if (source.length == 0) return target.length;
 	if (target.length == 0) return source.length;
-c
+
 	let i;
 	let j;
 	let matrix = [];
